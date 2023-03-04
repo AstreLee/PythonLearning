@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4bc2f60-5760-4a4f-bfcc-3e710e5235cd" name="默认变更列表" comment="fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1vzMoKPb6h18Hgjp2HKJX5vaVdK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/A_code/pycharm/PythonLearning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A_code\pycharm\study\MachineLearning" />
+      <recent name="D:\A_code\pycharm\study\数模\data" />
+      <recent name="D:\A_code\pycharm\study\数模" />
+      <recent name="D:\A_code\pycharm\study\大数据分析与应用\期末报告\Resource" />
+      <recent name="D:\A_code\pycharm\study\大数据分析与应用\期末报告" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\A_code\pycharm\study\数模\data" />
+      <recent name="D:\A_code\pycharm\study\数模\old" />
+      <recent name="D:\A_code\pycharm\study\大数据分析与应用\期末报告\Resource" />
+      <recent name="D:\A_code\pycharm\study\python课后实验" />
+      <recent name="C:\A_code\pycharm\study\大数据分析与应用\第一次实验报告" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.指标转换">
+    <configuration name="指标转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数模" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数模/指标转换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="产生式系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\CompileTools\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能实验" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能实验/产生式系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="指标转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数模" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数模/指标转换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="词云图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大数据分析与应用/期末报告" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大数据分析与应用/期末报告/词云图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="可视化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大数据分析与应用/第四次实验报告" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大数据分析与应用/第四次实验报告/可视化.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\CompileTools\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mixup数据增强" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\CompileTools\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数模" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数模/mixup数据增强.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\CompileTools\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数模" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数模/pps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svm (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\CompileTools\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数模" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数模/svm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.指标转换" />
+      <item itemvalue="Python.mixup数据增强" />
+      <item itemvalue="Python.svm (1)" />
+      <item itemvalue="Python.pps" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.svm (1)" />
+        <item itemvalue="Python.pps" />
+        <item itemvalue="Python.mixup数据增强" />
+        <item itemvalue="Python.指标转换" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b4bc2f60-5760-4a4f-bfcc-3e710e5235cd" name="默认变更列表" comment="" />
+      <created>1627560639195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627560639195</updated>
+      <workItem from="1627618627471" duration="37000" />
+      <workItem from="1627618689273" duration="310000" />
+      <workItem from="1627694333791" duration="152000" />
+      <workItem from="1627694788435" duration="42000" />
+      <workItem from="1627694839715" duration="19000" />
+      <workItem from="1627695075201" duration="54000" />
+      <workItem from="1627695248690" duration="7000" />
+      <workItem from="1627775585478" duration="13000" />
+      <workItem from="1627775609758" duration="18000" />
+      <workItem from="1628036823405" duration="43000" />
+      <workItem from="1628036875867" duration="15000" />
+      <workItem from="1628501339731" duration="88000" />
+      <workItem from="1628501437487" duration="35000" />
+      <workItem from="1628990926160" duration="38000" />
+      <workItem from="1628990976295" duration="390000" />
+      <workItem from="1629335011698" duration="31000" />
+      <workItem from="1629504400900" duration="50000" />
+      <workItem from="1629504460135" duration="69000" />
+      <workItem from="1629504862193" duration="53000" />
+      <workItem from="1629958361501" duration="16000" />
+      <workItem from="1629958386533" duration="98000" />
+      <workItem from="1630458746358" duration="39000" />
+      <workItem from="1630458794463" duration="33000" />
+      <workItem from="1630550378557" duration="11000" />
+      <workItem from="1635944283208" duration="40000" />
+      <workItem from="1636040294799" duration="118000" />
+      <workItem from="1636788954416" duration="14000" />
+      <workItem from="1636788977286" duration="111000" />
+      <workItem from="1636873641836" duration="230000" />
+      <workItem from="1636873882271" duration="7319000" />
+      <workItem from="1636890620889" duration="8006000" />
+      <workItem from="1636988261487" duration="301000" />
+      <workItem from="1636988870458" duration="440000" />
+      <workItem from="1636989784760" duration="61000" />
+      <workItem from="1636989904043" duration="459000" />
+      <workItem from="1637222356499" duration="5313000" />
+      <workItem from="1637303484968" duration="2715000" />
+      <workItem from="1637416097298" duration="5857000" />
+      <workItem from="1637462192660" duration="1563000" />
+      <workItem from="1637472098666" duration="2113000" />
+      <workItem from="1637827339001" duration="3204000" />
+      <workItem from="1637830650574" duration="132000" />
+      <workItem from="1637889807166" duration="17000" />
+      <workItem from="1637889835205" duration="9000" />
+      <workItem from="1638003047240" duration="730000" />
+      <workItem from="1638005959325" duration="56000" />
+      <workItem from="1638355379129" duration="5878000" />
+      <workItem from="1638431854460" duration="4597000" />
+      <workItem from="1638454095259" duration="61000" />
+      <workItem from="1638454663266" duration="94000" />
+      <workItem from="1638537776829" duration="328000" />
+      <workItem from="1639037474378" duration="673000" />
+      <workItem from="1639210128154" duration="204000" />
+      <workItem from="1639210342471" duration="7000" />
+      <workItem from="1639641759125" duration="5225000" />
+      <workItem from="1639662545477" duration="5549000" />
+      <workItem from="1639739980686" duration="2652000" />
+      <workItem from="1639742706490" duration="55000" />
+      <workItem from="1639802766397" duration="10576000" />
+      <workItem from="1639819450855" duration="1851000" />
+      <workItem from="1639880912190" duration="236000" />
+      <workItem from="1639928239111" duration="10000" />
+      <workItem from="1639928260318" duration="8000" />
+      <workItem from="1640012364562" duration="599000" />
+      <workItem from="1640086556507" duration="7379000" />
+      <workItem from="1640099007837" duration="1861000" />
+      <workItem from="1640139890120" duration="9854000" />
+      <workItem from="1640245993560" duration="4475000" />
+      <workItem from="1640250505829" duration="21000" />
+      <workItem from="1640607458085" duration="53000" />
+      <workItem from="1641348366005" duration="23000" />
+      <workItem from="1641348399425" duration="15000" />
+      <workItem from="1641821434072" duration="114000" />
+      <workItem from="1642050780892" duration="20000" />
+      <workItem from="1642069303433" duration="395000" />
+      <workItem from="1642642132184" duration="1243000" />
+      <workItem from="1642728253639" duration="20000" />
+      <workItem from="1642728286997" duration="17000" />
+      <workItem from="1643256805175" duration="700000" />
+      <workItem from="1643279633537" duration="4980000" />
+      <workItem from="1643335377563" duration="22724000" />
+      <workItem from="1643420583856" duration="4149000" />
+      <workItem from="1643424771974" duration="10700000" />
+      <workItem from="1643442833290" duration="1049000" />
+      <workItem from="1643448859457" duration="4457000" />
+      <workItem from="1643458422693" duration="19000" />
+      <workItem from="1643459640636" duration="2354000" />
+      <workItem from="1643502737942" duration="1183000" />
+      <workItem from="1643513604841" duration="26000" />
+      <workItem from="1643513728018" duration="374000" />
+      <workItem from="1643538955907" duration="1312000" />
+      <workItem from="1643625434637" duration="494000" />
+      <workItem from="1643629548117" duration="1892000" />
+      <workItem from="1643682894490" duration="2488000" />
+      <workItem from="1644027531077" duration="720000" />
+      <workItem from="1644221391856" duration="426000" />
+      <workItem from="1644221829454" duration="36000" />
+      <workItem from="1644284719098" duration="280000" />
+      <workItem from="1645064255212" duration="357000" />
+      <workItem from="1645152185724" duration="310000" />
+      <workItem from="1645172317583" duration="17619000" />
+      <workItem from="1645237932021" duration="18838000" />
+      <workItem from="1645452979113" duration="87000" />
+      <workItem from="1645454435246" duration="2738000" />
+      <workItem from="1645542763673" duration="9000" />
+      <workItem from="1645542784028" duration="37000" />
+      <workItem from="1645591964726" duration="456000" />
+      <workItem from="1645598229955" duration="43000" />
+      <workItem from="1645682842281" duration="1422000" />
+      <workItem from="1646027898526" duration="5797000" />
+      <workItem from="1646135806386" duration="1155000" />
+      <workItem from="1646146644087" duration="2486000" />
+      <workItem from="1646149442399" duration="61000" />
+      <workItem from="1646208536843" duration="201000" />
+      <workItem from="1646210568739" duration="381000" />
+      <workItem from="1646633918850" duration="4970000" />
+      <workItem from="1646651870598" duration="1293000" />
+      <workItem from="1646724766070" duration="71000" />
+      <workItem from="1646806156816" duration="16000" />
+      <workItem from="1646806187282" duration="16000" />
+      <workItem from="1647003314609" duration="118000" />
+      <workItem from="1647164623987" duration="125000" />
+      <workItem from="1647237607474" duration="4123000" />
+      <workItem from="1647844926146" duration="2382000" />
+      <workItem from="1648219001056" duration="15000" />
+      <workItem from="1648303048202" duration="48000" />
+      <workItem from="1648303259606" duration="97000" />
+      <workItem from="1648305190651" duration="17000" />
+      <workItem from="1648305220810" duration="12000" />
+      <workItem from="1648448504461" duration="2252000" />
+      <workItem from="1648451303161" duration="941000" />
+      <workItem from="1648452265722" duration="152000" />
+      <workItem from="1648452433798" duration="502000" />
+      <workItem from="1648452955089" duration="575000" />
+      <workItem from="1648462379814" duration="50000" />
+      <workItem from="1648462550683" duration="123000" />
+      <workItem from="1648479579735" duration="446000" />
+      <workItem from="1648480046566" duration="96000" />
+      <workItem from="1648480159938" duration="22000" />
+      <workItem from="1648480195108" duration="181000" />
+      <workItem from="1648533917378" duration="679000" />
+      <workItem from="1648534616960" duration="608000" />
+      <workItem from="1648535246267" duration="1435000" />
+      <workItem from="1648536895594" duration="1465000" />
+      <workItem from="1648542339728" duration="18000" />
+      <workItem from="1648542372632" duration="789000" />
+      <workItem from="1648627848832" duration="18112000" />
+      <workItem from="1648706240605" duration="3588000" />
+      <workItem from="1648713375507" duration="55000" />
+      <workItem from="1648735231371" duration="136000" />
+      <workItem from="1648881220474" duration="3711000" />
+      <workItem from="1648886099515" duration="2226000" />
+      <workItem from="1649035965837" duration="3433000" />
+      <workItem from="1649039849014" duration="1061000" />
+      <workItem from="1649163437260" duration="188000" />
+      <workItem from="1649172731638" duration="18000" />
+      <workItem from="1649226394080" duration="2133000" />
+      <workItem from="1649318669095" duration="225000" />
+      <workItem from="1649331726625" duration="30000" />
+      <workItem from="1649416719969" duration="1874000" />
+      <workItem from="1649558438157" duration="16000" />
+      <workItem from="1649558468952" duration="24000" />
+      <workItem from="1649598010789" duration="466000" />
+      <workItem from="1649658460078" duration="2153000" />
+      <workItem from="1650020091830" duration="35000" />
+      <workItem from="1650020229343" duration="259000" />
+      <workItem from="1650109188340" duration="445000" />
+      <workItem from="1650123011457" duration="72000" />
+      <workItem from="1650264079422" duration="652000" />
+      <workItem from="1650266061135" duration="1138000" />
+      <workItem from="1650365576303" duration="3693000" />
+      <workItem from="1650605630269" duration="1031000" />
+      <workItem from="1650617757633" duration="2307000" />
+      <workItem from="1650676008714" duration="73000" />
+      <workItem from="1650676096226" duration="61000" />
+      <workItem from="1650793890065" duration="71000" />
+      <workItem from="1650796020458" duration="143000" />
+      <workItem from="1650796540304" duration="377000" />
+      <workItem from="1650860784390" duration="46000" />
+      <workItem from="1650870267712" duration="1869000" />
+      <workItem from="1650885243613" duration="4816000" />
+      <workItem from="1650897374589" duration="1316000" />
+      <workItem from="1650962884239" duration="127000" />
+      <workItem from="1650984695355" duration="785000" />
+      <workItem from="1651135915362" duration="143000" />
+      <workItem from="1651136175544" duration="493000" />
+      <workItem from="1651556900381" duration="897000" />
+      <workItem from="1651576650498" duration="2622000" />
+      <workItem from="1651586905174" duration="208000" />
+      <workItem from="1651587223471" duration="77000" />
+      <workItem from="1652094233348" duration="25000" />
+      <workItem from="1652094273834" duration="22000" />
+      <workItem from="1652094802294" duration="14000" />
+      <workItem from="1652683151914" duration="4371000" />
+      <workItem from="1652713052149" duration="1989000" />
+      <workItem from="1652754059705" duration="344000" />
+      <workItem from="1652756609464" duration="4867000" />
+      <workItem from="1652772704810" duration="876000" />
+      <workItem from="1652882650933" duration="3320000" />
+      <workItem from="1653274382903" duration="14183000" />
+      <workItem from="1653307143926" duration="5103000" />
+      <workItem from="1653314319960" duration="69000" />
+      <workItem from="1653314402754" duration="944000" />
+      <workItem from="1653468623162" duration="6594000" />
+      <workItem from="1653484990703" duration="3422000" />
+      <workItem from="1653528292031" duration="5929000" />
+      <workItem from="1653642838050" duration="10698000" />
+      <workItem from="1653785572974" duration="3110000" />
+      <workItem from="1653916397187" duration="21000" />
+      <workItem from="1653916435180" duration="10000" />
+      <workItem from="1655446771074" duration="28000" />
+      <workItem from="1655446816972" duration="11000" />
+      <workItem from="1657154318218" duration="183000" />
+      <workItem from="1657154515750" duration="74000" />
+      <workItem from="1658362967300" duration="17000" />
+      <workItem from="1658363004852" duration="31000" />
+      <workItem from="1659249059766" duration="76000" />
+      <workItem from="1659249150023" duration="70000" />
+      <workItem from="1659249232016" duration="40000" />
+      <workItem from="1659249284934" duration="36000" />
+      <workItem from="1659879779687" duration="1175000" />
+      <workItem from="1659918622749" duration="21109000" />
+      <workItem from="1660036632999" duration="942000" />
+      <workItem from="1660647855429" duration="38000" />
+      <workItem from="1660647910648" duration="72000" />
+      <workItem from="1661344015594" duration="366000" />
+      <workItem from="1661344402967" duration="81000" />
+      <workItem from="1661928698193" duration="31000" />
+      <workItem from="1661928741935" duration="109000" />
+      <workItem from="1662282877030" duration="1242000" />
+      <workItem from="1662991532813" duration="33000" />
+      <workItem from="1662991579947" duration="79000" />
+      <workItem from="1663137330125" duration="3253000" />
+      <workItem from="1663151583534" duration="778000" />
+      <workItem from="1663152750157" duration="50000" />
+      <workItem from="1663224937918" duration="1117000" />
+      <workItem from="1663226104994" duration="214000" />
+      <workItem from="1663226332782" duration="363000" />
+      <workItem from="1663226745916" duration="90000" />
+      <workItem from="1663226868694" duration="88000" />
+      <workItem from="1663226973803" duration="69000" />
+      <workItem from="1663227056973" duration="51000" />
+      <workItem from="1663227612922" duration="603000" />
+      <workItem from="1663228344523" duration="90000" />
+      <workItem from="1663228733322" duration="70000" />
+      <workItem from="1663241557703" duration="8197000" />
+      <workItem from="1663306264243" duration="11339000" />
+      <workItem from="1663326279675" duration="8584000" />
+      <workItem from="1663376320560" duration="27258000" />
+      <workItem from="1663414152863" duration="42663000" />
+      <workItem from="1663586662105" duration="89000" />
+      <workItem from="1663586801777" duration="77000" />
+      <workItem from="1664083149297" duration="641000" />
+      <workItem from="1664097014139" duration="4285000" />
+      <workItem from="1664332076554" duration="40000" />
+      <workItem from="1664871224464" duration="213000" />
+      <workItem from="1665124036875" duration="57000" />
+      <workItem from="1665124103838" duration="43000" />
+      <workItem from="1670633535053" duration="5000" />
+      <workItem from="1677765867473" duration="81000" />
+      <workItem from="1677765963703" duration="3683000" />
+      <workItem from="1677770013625" duration="1154000" />
+      <workItem from="1677941607883" duration="1207000" />
+      <workItem from="1677943254859" duration="5000" />
+    </task>
+    <task id="LOCAL-00120" summary="commit_123">
+      <created>1628218753783</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1628218753783</updated>
+    </task>
+    <task id="LOCAL-00121" summary="commit_124">
+      <created>1628222444681</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1628222444681</updated>
+    </task>
+    <task id="LOCAL-00122" summary="commit_125">
+      <created>1628222551490</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1628222551490</updated>
+    </task>
+    <task id="LOCAL-00123" summary="commit_126">
+      <created>1628301980025</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1628301980026</updated>
+    </task>
+    <task id="LOCAL-00124" summary="commit_127">
+      <created>1628306583818</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1628306583818</updated>
+    </task>
+    <task id="LOCAL-00125" summary="commit_128">
+      <created>1628317997644</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1628317997644</updated>
+    </task>
+    <task id="LOCAL-00126" summary="commit_128">
+      <created>1628330657737</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1628330657737</updated>
+    </task>
+    <task id="LOCAL-00127" summary="commit_note">
+      <created>1628330894668</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1628330894668</updated>
+    </task>
+    <task id="LOCAL-00128" summary="commit">
+      <created>1628336008106</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1628336008106</updated>
+    </task>
+    <task id="LOCAL-00129" summary="commit">
+      <created>1628336336163</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1628336336163</updated>
+    </task>
+    <task id="LOCAL-00130" summary="commit">
+      <created>1628336459137</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1628336459137</updated>
+    </task>
+    <task id="LOCAL-00131" summary="commit">
+      <created>1628338152732</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1628338152732</updated>
+    </task>
+    <task id="LOCAL-00132" summary="commit">
+      <created>1630047746141</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1630047746142</updated>
+    </task>
+    <task id="LOCAL-00133" summary="commit">
+      <created>1631149632400</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1631149632400</updated>
+    </task>
+    <task id="LOCAL-00134" summary="commit">
+      <created>1631192230584</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1631192230584</updated>
+    </task>
+    <task id="LOCAL-00135" summary="commit">
+      <created>1631200974803</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1631200974803</updated>
+    </task>
+    <task id="LOCAL-00136" summary="commit">
+      <created>1631254302197</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1631254302212</updated>
+    </task>
+    <task id="LOCAL-00137" summary="commit">
+      <created>1631265930663</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1631265930663</updated>
+    </task>
+    <task id="LOCAL-00138" summary="commit">
+      <created>1631579403413</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1631579403413</updated>
+    </task>
+    <task id="LOCAL-00139" summary="commit">
+      <created>1631579865532</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1631579865532</updated>
+    </task>
+    <task id="LOCAL-00140" summary="commit">
+      <created>1631691251737</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1631691251737</updated>
+    </task>
+    <task id="LOCAL-00141" summary="commit">
+      <created>1631692052751</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1631692052751</updated>
+    </task>
+    <task id="LOCAL-00142" summary="commit">
+      <created>1631714017100</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1631714017100</updated>
+    </task>
+    <task id="LOCAL-00143" summary="commit">
+      <created>1631785051343</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1631785051343</updated>
+    </task>
+    <task id="LOCAL-00144" summary="commit">
+      <created>1631785078016</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1631785078016</updated>
+    </task>
+    <task id="LOCAL-00145" summary="commit">
+      <created>1631805661260</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1631805661260</updated>
+    </task>
+    <task id="LOCAL-00146" summary="commit">
+      <created>1631881832862</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1631881832862</updated>
+    </task>
+    <task id="LOCAL-00147" summary="commit">
+      <created>1632017702748</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1632017702748</updated>
+    </task>
+    <task id="LOCAL-00148" summary="commit">
+      <created>1632028036631</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1632028036631</updated>
+    </task>
+    <task id="LOCAL-00149" summary="commit">
+      <created>1632043563624</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1632043563624</updated>
+    </task>
+    <task id="LOCAL-00150" summary="commit">
+      <created>1632050121425</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1632050121425</updated>
+    </task>
+    <task id="LOCAL-00151" summary="commit">
+      <created>1634829882678</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1634829882679</updated>
+    </task>
+    <task id="LOCAL-00152" summary="commit">
+      <created>1636875542583</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1636875542583</updated>
+    </task>
+    <task id="LOCAL-00153" summary="commit">
+      <created>1637306058259</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1637306058259</updated>
+    </task>
+    <task id="LOCAL-00154" summary="commit">
+      <created>1637421994357</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1637421994357</updated>
+    </task>
+    <task id="LOCAL-00155" summary="commit">
+      <created>1639820943050</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1639820943050</updated>
+    </task>
+    <task id="LOCAL-00156" summary="commit">
+      <created>1640155785766</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1640155785766</updated>
+    </task>
+    <task id="LOCAL-00157" summary="commit">
+      <created>1645195687430</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1645195687430</updated>
+    </task>
+    <task id="LOCAL-00158" summary="commit">
+      <created>1645457177529</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1645457177529</updated>
+    </task>
+    <task id="LOCAL-00159" summary="commit">
+      <created>1647003363090</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1647003363096</updated>
+    </task>
+    <task id="LOCAL-00160" summary="写麻了">
+      <created>1648654626659</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1648654626667</updated>
+    </task>
+    <task id="LOCAL-00161" summary="补了一个图">
+      <created>1648710933080</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1648710933080</updated>
+    </task>
+    <task id="LOCAL-00162" summary="try">
+      <created>1648713412390</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1648713412390</updated>
+    </task>
+    <task id="LOCAL-00163" summary="改了一点点">
+      <created>1649039205053</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1649039205059</updated>
+    </task>
+    <task id="LOCAL-00164" summary="commit">
+      <created>1650620484432</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1650620484432</updated>
+    </task>
+    <task id="LOCAL-00165" summary="commit">
+      <created>1664871289163</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1664871289164</updated>
+    </task>
+    <task id="LOCAL-00166" summary="commit">
+      <created>1677770102780</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1677770102781</updated>
+    </task>
+    <task id="LOCAL-00167" summary="commit">
+      <created>1677770474895</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1677770474895</updated>
+    </task>
+    <task id="LOCAL-00168" summary="commit">
+      <created>1677770723201</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1677770723201</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit_109" />
+    <MESSAGE value="commit_110" />
+    <MESSAGE value="commit_112" />
+    <MESSAGE value="commit_113" />
+    <MESSAGE value="commit_114" />
+    <MESSAGE value="commit_115" />
+    <MESSAGE value="commit_116" />
+    <MESSAGE value="commit_117" />
+    <MESSAGE value="commit_118" />
+    <MESSAGE value="commit_119" />
+    <MESSAGE value="commit_120" />
+    <MESSAGE value="commit_121" />
+    <MESSAGE value="commit_122" />
+    <MESSAGE value="commit_123" />
+    <MESSAGE value="commit_124" />
+    <MESSAGE value="commit_125" />
+    <MESSAGE value="commit_126" />
+    <MESSAGE value="commit_127" />
+    <MESSAGE value="commit_128" />
+    <MESSAGE value="commit_note" />
+    <MESSAGE value="写麻了" />
+    <MESSAGE value="补了一个图" />
+    <MESSAGE value="try" />
+    <MESSAGE value="改了一点点" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/study$SnowNLP.coverage" NAME="SnowNLP测试 覆盖结果" MODIFIED="1653646999293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用/期末报告" />
+    <SUITE FILE_PATH="coverage/study$04_workbook_toCsv_toTxt__1_.coverage" NAME="04_workbook_toCsv_toTxt (1) 覆盖结果" MODIFIED="1647240394373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用" />
+    <SUITE FILE_PATH="coverage/study$11_1.coverage" NAME="11_1 覆盖结果" MODIFIED="1639820069291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python课后实验" />
+    <SUITE FILE_PATH="coverage/study$05_super.coverage" NAME="05_super函数 覆盖结果" MODIFIED="1640155745529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_13_继承" />
+    <SUITE FILE_PATH="coverage/study$01_excel__1_.coverage" NAME="01_读取excel文件 (1) 覆盖结果" MODIFIED="1645194954294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正大杯" />
+    <SUITE FILE_PATH="coverage/study$13_requestspost.coverage" NAME="13_requests模块发送post请求 覆盖结果" MODIFIED="1643353377511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$07_.coverage" NAME="07_数据的插入处理 覆盖结果" MODIFIED="1652714574679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用" />
+    <SUITE FILE_PATH="coverage/study$svmTest__1_.coverage" NAME="svmTest (1) 覆盖结果" MODIFIED="1663415722890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$03_gender.coverage" NAME="03_绘图gender 覆盖结果" MODIFIED="1645253208893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正大杯" />
+    <SUITE FILE_PATH="coverage/study$15_.coverage" NAME="15_中国机长影评爬取 覆盖结果" MODIFIED="1643382100663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$example.coverage" NAME="example 覆盖结果" MODIFIED="1663327618467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$lightGbm.coverage" NAME="lightGbm 覆盖结果" MODIFIED="1663405178565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$randomTree.coverage" NAME="randomTree 覆盖结果" MODIFIED="1663383882103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$03_Random.coverage" NAME="03_Random模块 覆盖结果" MODIFIED="1640155079884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_17_模块和包和库" />
+    <SUITE FILE_PATH="coverage/study$01_Series.coverage" NAME="01_Series 覆盖结果" MODIFIED="1663418392779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用" />
+    <SUITE FILE_PATH="coverage/study$TF_IDF.coverage" NAME="TF-IDF 覆盖结果" MODIFIED="1653656042673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用/期末报告" />
+    <SUITE FILE_PATH="coverage/study$14_json.coverage" NAME="14_json模块使用 覆盖结果" MODIFIED="1643372110458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$05_requests.coverage" NAME="05_requests模块发送带参数的请求 覆盖结果" MODIFIED="1643283445344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$KNN.coverage" NAME="KNN 覆盖结果" MODIFIED="1663481441390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$pps.coverage" NAME="pps 覆盖结果" MODIFIED="1663482785781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$11_1__1_.coverage" NAME="11_1 (1) 覆盖结果" MODIFIED="1639742630156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python课后实验" />
+    <SUITE FILE_PATH="coverage/study$Try.coverage" NAME="Try 覆盖结果" MODIFIED="1640248174636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study$mixup.coverage" NAME="mixup数据增强 覆盖结果" MODIFIED="1663482657499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$SVM.coverage" NAME="svmaaa 覆盖结果" MODIFIED="1663425662599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$01_.coverage" NAME="01_继承初步 覆盖结果" MODIFIED="1640155237520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_13_继承" />
+    <SUITE FILE_PATH="coverage/study$LDA.coverage" NAME="LDA主题情感分析 覆盖结果" MODIFIED="1653314651206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用/期末报告" />
+    <SUITE FILE_PATH="coverage/study$02_Dataframe.coverage" NAME="02_Dataframe 覆盖结果" MODIFIED="1647243578914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用" />
+    <SUITE FILE_PATH="coverage/study$K_means.coverage" NAME="K_means 覆盖结果" MODIFIED="1664083748041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning" />
+    <SUITE FILE_PATH="coverage/study$SMOFT.coverage" NAME="SMOFT 覆盖结果" MODIFIED="1663331242164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$08_.coverage" NAME="08_函数参数类型 覆盖结果" MODIFIED="1640140259746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_10_函数" />
+    <SUITE FILE_PATH="coverage/study$07_headerscookie.coverage" NAME="07_在headers参数中携带cookie 覆盖结果" MODIFIED="1643337111043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$randomForests.coverage" NAME="randomForests 覆盖结果" MODIFIED="1663442646894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$requestsheaders.coverage" NAME="requests模块发送带headers的请求 覆盖结果" MODIFIED="1643282631249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$decoder.coverage" NAME="decoder 覆盖结果" MODIFIED="1643425665340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Program Files/Python39/Lib/json" />
+    <SUITE FILE_PATH="coverage/study$__1_.coverage" NAME="数据处理 (1) 覆盖结果" MODIFIED="1650620069755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用/第二次实验报告" />
+    <SUITE FILE_PATH="coverage/study$8_2.coverage" NAME="8_2 覆盖结果" MODIFIED="1640100870238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python课后实验" />
+    <SUITE FILE_PATH="coverage/study$03_gender___1_.coverage" NAME="03_绘图gender_饼状 (1) 覆盖结果" MODIFIED="1645253876834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正大杯" />
+    <SUITE FILE_PATH="coverage/study$04_workbook_toCsv_toTxt.coverage" NAME="04_workbook_toCsv_toTxt 覆盖结果" MODIFIED="1646635956201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用/dataFile" />
+    <SUITE FILE_PATH="coverage/study$Test.coverage" NAME="Test 覆盖结果" MODIFIED="1664114832736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning" />
+    <SUITE FILE_PATH="coverage/study$04_.coverage" NAME="04_子类调用父类同名函数 覆盖结果" MODIFIED="1640155410833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_13_继承" />
+    <SUITE FILE_PATH="coverage/study$2_3.coverage" NAME="2_3 覆盖结果" MODIFIED="1640093067225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python课后实验" />
+    <SUITE FILE_PATH="coverage/study$svmaaa__1_.coverage" NAME="svmaaa (1) 覆盖结果" MODIFIED="1663429768487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$09_.coverage" NAME="09_字符串格式化函数 覆盖结果" MODIFIED="1640095210950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_03_字符串" />
+    <SUITE FILE_PATH="coverage/study$10_timeout.coverage" NAME="10_超时参数timeout的使用 覆盖结果" MODIFIED="1643339697802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$17_3.coverage" NAME="17_影评爬取3 覆盖结果" MODIFIED="1645152210050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$05_num.coverage" NAME="05_绘图num次数 覆盖结果" MODIFIED="1645258746654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正大杯" />
+    <SUITE FILE_PATH="coverage/study$15_1.coverage" NAME="15_影评爬取1 覆盖结果" MODIFIED="1643434371652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$02_.coverage" NAME="02_多继承 覆盖结果" MODIFIED="1640155264753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_13_继承" />
+    <SUITE FILE_PATH="coverage/study$test.coverage" NAME="test 覆盖结果" MODIFIED="1659922976925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$Logistic.coverage" NAME="Logistic 覆盖结果" MODIFIED="1663441313015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$06_params.coverage" NAME="06_通过params携带参数字典 覆盖结果" MODIFIED="1643340112806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$04_gender_.coverage" NAME="04_绘图gender_柱形 覆盖结果" MODIFIED="1648653228361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正大杯" />
+    <SUITE FILE_PATH="coverage/study$09_cookiesJarcookies.coverage" NAME="09_cookiesJar对象转化为cookies字典 覆盖结果" MODIFIED="1643339582196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$svmaaa.coverage" NAME="svmaaa 覆盖结果" MODIFIED="1663454932619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$16_2.coverage" NAME="16_影评爬取2 覆盖结果" MODIFIED="1643440430801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$02_province.coverage" NAME="02_绘图province 覆盖结果" MODIFIED="1646031995014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正大杯" />
+    <SUITE FILE_PATH="coverage/study$rfplotting.coverage" NAME="rfplotting 覆盖结果" MODIFIED="1663455105907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$03_mro__.coverage" NAME="03_mro()函数 覆盖结果" MODIFIED="1640155277978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_13_继承" />
+    <SUITE FILE_PATH="coverage/study$05_.coverage" NAME="05_函数嵌套调用实例 覆盖结果" MODIFIED="1640142577425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_10_函数" />
+    <SUITE FILE_PATH="coverage/study$7_8.coverage" NAME="7_8 覆盖结果" MODIFIED="1653290423218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python课后实验" />
+    <SUITE FILE_PATH="coverage/study$svm__1_.coverage" NAME="svm (1) 覆盖结果" MODIFIED="1663484894629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1649659769438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study$03_workbook_readin.coverage" NAME="03_workbook_readin 覆盖结果" MODIFIED="1649659904360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用" />
+    <SUITE FILE_PATH="coverage/study$01_requestsget.coverage" NAME="01_requests模块发送get请求 覆盖结果" MODIFIED="1643280286561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$smo__1_.coverage" NAME="smo (1) 覆盖结果" MODIFIED="1663332103254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$02_response.coverage" NAME="02_response响应对象常用属性 覆盖结果" MODIFIED="1643282788978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$common.coverage" NAME="common 覆盖结果" MODIFIED="1648651577506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Roaming/Python/Python39/site-packages/pandas/io" />
+    <SUITE FILE_PATH="coverage/study$01_xlsx_to_csv.coverage" NAME="01_xlsx_to_csv 覆盖结果" MODIFIED="1645174829738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正大杯" />
+    <SUITE FILE_PATH="coverage/study$Question2.coverage" NAME="Question2 覆盖结果" MODIFIED="1640248619034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study$11_proxy.coverage" NAME="11_proxy代理 覆盖结果" MODIFIED="1643341702285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$08_cookies.coverage" NAME="08_cookies参数的使用 覆盖结果" MODIFIED="1643340303506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/study$03_.coverage" NAME="03_函数之返回值 覆盖结果" MODIFIED="1640142535043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_10_函数" />
+    <SUITE FILE_PATH="coverage/study$05_range.coverage" NAME="05_公共操作之range 覆盖结果" MODIFIED="1653485811438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_08_公共操作" />
+    <SUITE FILE_PATH="coverage/study$02_self.coverage" NAME="02_类函数里面的self 覆盖结果" MODIFIED="1640155132324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_12_类和对象初步" />
+    <SUITE FILE_PATH="coverage/study$08_ilocioc.coverage" NAME="08_关于iloc和ioc的完整版总结 覆盖结果" MODIFIED="1648634075460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用" />
+    <SUITE FILE_PATH="coverage/study$test__2_.coverage" NAME="test (2) 覆盖结果" MODIFIED="1640140224412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础应用_10_函数" />
+    <SUITE FILE_PATH="coverage/study$Questoin3.coverage" NAME="Questoin3 覆盖结果" MODIFIED="1640249048136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study$Question1.coverage" NAME="Question1 覆盖结果" MODIFIED="1640248325255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study$smo.coverage" NAME="smo 覆盖结果" MODIFIED="1663439352274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数模" />
+    <SUITE FILE_PATH="coverage/study$.coverage" NAME="产生式系统 覆盖结果" MODIFIED="1677768690599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实验" />
+    <SUITE FILE_PATH="coverage/study$06_.coverage" NAME="06_数据清洗 覆盖结果" MODIFIED="1649228486712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大数据分析与应用" />
+    <SUITE FILE_PATH="coverage/study$11_2.coverage" NAME="11_2 覆盖结果" MODIFIED="1639820434210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python课后实验" />
+    <SUITE FILE_PATH="coverage/study$earth.coverage" NAME="earth 覆盖结果" MODIFIED="1642642165172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study$10_1.coverage" NAME="10_1 覆盖结果" MODIFIED="1639816828596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python课后实验" />
+    <SUITE FILE_PATH="coverage/study$11_examples.coverage" NAME="11_examples 覆盖结果" MODIFIED="1639742107580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python课后实验" />
+    <SUITE FILE_PATH="coverage/study$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1640607504416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

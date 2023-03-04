@@ -1,0 +1,13 @@
+digraph Tree {
+node [shape=box, fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="氧化钡(BaO) <= 3.06\ngini = 0.463\nsamples = 38\nvalue = [35, 20]"] ;
+1 [label="氧化铅(PbO) <= 26.48\ngini = 0.091\nsamples = 14\nvalue = [1, 20]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.0\nsamples = 13\nvalue = [0, 20]"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]"] ;
+1 -> 3 ;
+4 [label="gini = 0.0\nsamples = 24\nvalue = [34, 0]"] ;
+0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
